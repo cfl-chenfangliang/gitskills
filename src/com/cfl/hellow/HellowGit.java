@@ -13,6 +13,7 @@ package com.cfl.hellow;
 public class HellowGit {
 
 	public static void main(String[] args) {
+		System.out.println("w1");
 		System.out.println(2);
 		System.out.println(1);
 		System.out.println("ÄãºÃ°¡");
