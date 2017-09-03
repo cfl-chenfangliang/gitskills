@@ -11,8 +11,8 @@ package com.cfl.hellow;
  *
  */
 public class HellowGit {
-	// 1
 	public static void main(String[] args) {
 		System.out.println("new2");
+		System.out.println("new");
 	}
 }
